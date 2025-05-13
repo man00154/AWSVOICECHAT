@@ -3,7 +3,7 @@ from utils.audio_processing import record_audio, play_audio
 from utils.aws_services import transcribe_audio, synthesize_speech, lex_conversation
 
 def main():
-    print("Welcome to AWS Voice-to-Voice Chat!")
+    print("Welcome to AWS Voice-to-Voice Chat by MANISH SINGH!")
     
     while True:
         print("\nSpeak your message (Recording will start in 3 seconds)...")
